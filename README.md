@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
-- 👨‍💻 All of my projects are available at [https://ahmedobad.info/](https://ahmedobad.info/)
+- 👨‍💻 All of my projects are available at [https://ahmedobad.info/](https://ahmedobad.site/)
 
 - 💬 Ask me about **React, Vue js**
 
 - 📫 How to reach me **ahmd4obad@gmail.com**
 
-- 📄 Know about my experiences [https://ahmedobad.info/](https://ahmedobad.info/)
+- 📄 Know about my experiences [https://ahmedobad.info/](https://ahmedobad.site/)
 
 - ⚡ Fun fact **I think I am funny**
 
